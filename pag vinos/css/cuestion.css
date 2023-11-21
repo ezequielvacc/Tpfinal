@@ -295,7 +295,7 @@ html{
 
     margin-top: 10rem;
     background-color: var(--color-fondo-inv); /* Cambiar el color de fondo */
-    color: var(--color-texto2-d) !important; /* Cambiar el color del texto */
+    color: var(--color-texto2) !important; /* Cambiar el color del texto */
     padding: 20px 0; /* Agregar espacio alrededor del contenido */
 }
 .footer-content {
@@ -338,7 +338,7 @@ p {
 }
 
 .social-icons a {
-    color: var(--color-texto); /* Cambiar el color de los enlaces */
+    color: var(--color-texto2); /* Cambiar el color de los enlaces */
     text-decoration: none;
     display: flex;
     align-items: center;
