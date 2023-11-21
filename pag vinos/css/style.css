@@ -214,7 +214,13 @@ button[type=submit]:hover {
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    height: auto;
+    width: auto;
  }   
+ iframe{
+    width: 50%;
+    height: 50%;
+ }
 
 /* estilo de las tarjetas */
 .main{
